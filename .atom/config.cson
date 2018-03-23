@@ -1,0 +1,15 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+    themes: [
+      "one-light-ui"
+      "one-light-syntax"
+    ]
+  editor: {}
+  "exception-reporting":
+    userId: "173411a3-8f13-4d1d-84c3-66505f05e196"
+  "highlight-selected":
+    highlightBackground: true
+  "package-sync": {}
+  welcome:
+    showOnStartup: false
