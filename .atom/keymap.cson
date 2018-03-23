@@ -35,5 +35,8 @@
   'ctrl-n': 'core:move-down'
   'ctrl-p': 'core:move-up'
 
-'body':
+'body.platform-darwin':
+  'cmd-shift-s': 'window:save-all'
+
+'bodys.platform-linux':
   'ctrl-shift-s': 'window:save-all'
