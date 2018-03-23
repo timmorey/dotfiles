@@ -1,0 +1,14 @@
+packages: [
+  "busy-signal"
+  "editorconfig"
+  "file-type-icons"
+  "highlight-selected"
+  "intentions"
+  "language-ember-htmlbars"
+  "linter"
+  "linter-eslint"
+  "linter-ui-default"
+  "markdown-preview-plus"
+  "package-sync"
+  "pigments"
+]
