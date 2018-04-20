@@ -34,9 +34,11 @@
 'atom-workspace':
   'ctrl-n': 'core:move-down'
   'ctrl-p': 'core:move-up'
+  'cmd-a': 'core:select-all'
 
-'body.platform-darwin':
+'atom-text-editor':
+  'ctrl-a': 'editor:move-to-beginning-of-line'
+  'ctrl-e': 'editor:move-to-end-of-line'
+
+'body':
   'cmd-shift-s': 'window:save-all'
-
-'bodys.platform-linux':
-  'ctrl-shift-s': 'window:save-all'
