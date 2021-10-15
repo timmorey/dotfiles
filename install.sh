@@ -1,9 +1,6 @@
 #! /bin/sh
 
-cp -R ./config ~/config
-cp ./.bashrc_colors ~/
-cp ./.bashrc_git ~/
-cp ./.bash_profile ~/
+rsync -r home/ ~
 
 echo "# added by timmorey/dotfiles install.sh:" >> ~/.bashrc
 echo "source ~/.bashrc_colors" >> ~/.bashrc

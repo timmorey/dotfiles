@@ -1,8 +1,6 @@
 [user]
 	email = tmorey@esri.com 
 	name = Timothy Morey
-[core]
-	editor = emacs
 [color]
 	ui = auto
 	branch = auto
