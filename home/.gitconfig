@@ -5,3 +5,6 @@
 	ui = auto
 	branch = auto
 	status = auto
+[core]
+	editor = vi
+
