@@ -1,7 +1,7 @@
 
-. ~/config/git/git-completion.bash
+. ~/.config/git/git-completion.bash
 
-. ~/config/git/git-prompt.sh
+. ~/.config/git/git-prompt.sh
 export GIT_PS1_SHOWDIRTYSTATE=1
 export PS1="$IMagenta\u$Magenta@$IMagenta\h$Color_Off:\w $Green\$(__git_ps1 '(%s)')$Color_Off\$ "
 
